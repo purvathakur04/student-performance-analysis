@@ -56,8 +56,4 @@ Result: **1,025 raw records → 1,000 clean records**, zero missing values.
 | ![](charts/05_parental_education.png) | ![](charts/06_correlation_heatmap.png) |
 | ![](charts/07_grade_distribution.png) | |
 
-## Resume bullet (filled in)
 
-**Student Performance Analysis Using Python** | Python, Pandas, NumPy, Matplotlib | GitHub: [link]
-- Cleaned and preprocessed a student performance dataset of 1,000 records using Pandas and NumPy, removing duplicates, standardising inconsistent entries and imputing 260+ missing values.
-- Analysed factors affecting academic results and visualised marks and performance trends with Matplotlib; found that daily study hours was the strongest predictor of marks (r = 0.78), with students studying 6+ hours scoring ~27 marks higher than those studying under 2 hours.
